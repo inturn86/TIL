@@ -1,6 +1,6 @@
 ## HashMap과 HashTable
 
-==Hashtable== Java 1부터 존재한 클래스입니다. 그리고 HashMap은 Java 2부터 나온 클래스입니다. Map 인터페이스를 구현하고 있기 때문에 제공하는 기능은 같습니다.
+Hashtable Java 1부터 존재한 클래스입니다. 그리고 HashMap은 Java 2부터 나온 클래스입니다. Map 인터페이스를 구현하고 있기 때문에 제공하는 기능은 같습니다.
 
 차이점은 아래와 같습니다.
 
