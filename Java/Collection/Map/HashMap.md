@@ -1,4 +1,4 @@
-## HashMap과 HashTable
+## HashMap과 Hashtable
 
 Hashtable Java 1부터 존재한 클래스입니다. 그리고 HashMap은 Java 2부터 나온 클래스입니다. Map 인터페이스를 구현하고 있기 때문에 제공하는 기능은 같습니다.
 
