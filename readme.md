@@ -2,7 +2,7 @@
 
 ### Web
 - ### Nginx
-    - [OOP](https://github.com/inturn86/TIL/blob/main/Web/Nginx/Nginx.md)
+    - [Nginx](https://github.com/inturn86/TIL/blob/main/Web/Nginx/Nginx.md)
 
 ## Java
 - ### Collection
