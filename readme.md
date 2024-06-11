@@ -12,7 +12,7 @@
 
 ## DB
 - ### Postgresql
-    - [Lock 조회](https://github.com/inturn86/TIL/blob/main/Db/Postgresql/LockSolution.md)
+    - [Lock 조회](https://github.com/inturn86/TIL/blob/main/Db/Postgresql/LockSolutions.md)
   
 
 
