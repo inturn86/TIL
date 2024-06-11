@@ -1,6 +1,6 @@
 # TIL(Today I Learn)
 
-### Web
+## Web
 - ### Nginx
     - [Nginx](https://github.com/inturn86/TIL/blob/main/Web/Nginx/Nginx.md)
 
@@ -10,6 +10,9 @@
 - ### OOP
     - [OOP](https://github.com/inturn86/TIL/blob/main/Java/OOP/OOP.md)
 
+## DB
+- ### Postgresql
+    - [Lock 조회](https://github.com/inturn86/TIL/blob/main/Db/Postgresql/LockSolution.md)
   
 
 
