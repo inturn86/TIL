@@ -1,4 +1,5 @@
 
+
 ## Kafka 생태계
 
 ![](../assets/images/Kafka/KafkaBroker/KafkaBroker3.png)
